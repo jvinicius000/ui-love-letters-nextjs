@@ -1,0 +1,4 @@
+NEXT_PUBLIC_RECAPTCHA_SITE_KEY=6Lfqxxxxxxxxxxxxxxxxxxx-xx
+RECAPTCHA_SECRET_KEY=6Lfqxxxxxxxxxxxxxxxxxxxxxxxx
+
+API_BASE_URL="https://jvinicius-api-loveletters-390075206470.us-east1.run.app/api"
